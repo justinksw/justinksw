@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <!-- 🔭 I’m currently working on [CAiRS](https://www.cairs.hk/en) -->
 <!-- 🌱 I’m currently a PhD student at [PolyU](https://www.polyu.edu.hk/ee/) -->
-[Homepage]()
+[Homepage](https://justinksw.github.io/justin/)
 - 🤓 I’m interested in all funny AI applications
